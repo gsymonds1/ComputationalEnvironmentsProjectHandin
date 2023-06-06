@@ -1,4 +1,8 @@
-# ComputationalEnvironmentsProjects
+# ComputationalEnvironmentsHandin_Projects
 CE
 
-All the annotated code for the 3 projects are here in their own folders!
+Watch my Presentation Here!
+
+PDF of presentation slides are here
+Aswell as all the annotated code for the 3 projects in their own folders!
+Along with the project's corresponding guidebooks ☀️
